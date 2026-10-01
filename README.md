@@ -2,7 +2,7 @@
 
 - 🔭 Software Engineer with 3+ years of experience building and improving internal tools across backend, frontend, and mobile development in a Security Operations      Center. Background in mathematics and computer science education, with hands-on work in Python, C++, MySQL, Django, DRF API, React, Linux, Docker and Flutter      mobile development.
 - 📐 2+ years of mathematics teaching experience
-- 🤝 I'm open to Software Engineer, Django developer, Research Engineer, Data Engineer, Python developer, PhD student, Full stack developer, AI/ML engineering and      analytics roles — remote, hybrid or on-site. Feel free to reach out!
+- 🤝 I'm open to Software Engineer, Django developer, Research Engineer, Data Engineer, Python developer, Full stack developer, AI/ML engineering and      analytics roles — remote, hybrid or on-site. Feel free to reach out!
 
 
 
